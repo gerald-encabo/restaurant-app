@@ -2,6 +2,7 @@
   "name": "restaurant-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://geraldencabo.github.io/restaurant-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
