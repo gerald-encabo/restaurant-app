@@ -1,6 +1,6 @@
 ## Restaurant React App
 
-This Levart travel agency app is named after travel in the opposite way (laverT). This react app is fully responsive on all devices including mobile phones and tablets. The main focus in this app is the Hook React (useState & useEffect), React Router, and the import SASS (or SCSS). I have also used quality video and images for design and visual purposes.
+This responsive eCommerce react app focusing on the food industry Ramen or Japanese Noodle soup. This React app has multiple components written in styled-components that render into Single Page Application (SPA). This also has a sidebar link menu that redirects into product component that displays data such as product name, description, price, and image that collects from JavaScript files written in JSON format, which the info displays using map() function.
 
 Link:
 https://geraldencabo.github.io/restaurant-app/
