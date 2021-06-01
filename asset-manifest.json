@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/restaurant-app/static/js/main.78677c41.chunk.js",
-    "main.js.map": "/restaurant-app/static/js/main.78677c41.chunk.js.map",
+    "main.js": "/restaurant-app/static/js/main.c5422c34.chunk.js",
+    "main.js.map": "/restaurant-app/static/js/main.c5422c34.chunk.js.map",
     "runtime-main.js": "/restaurant-app/static/js/runtime-main.046e9ccb.js",
     "runtime-main.js.map": "/restaurant-app/static/js/runtime-main.046e9ccb.js.map",
     "static/js/2.f95ef00d.chunk.js": "/restaurant-app/static/js/2.f95ef00d.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime-main.046e9ccb.js",
     "static/js/2.f95ef00d.chunk.js",
-    "static/js/main.78677c41.chunk.js"
+    "static/js/main.c5422c34.chunk.js"
   ]
 }
