@@ -11,19 +11,19 @@ const Footer = () => {
           <SocialMediaWrap>
             <SocialLogo to='/'>Ramen &nbsp; <BsFillHouseDoorFill /> &nbsp; House</SocialLogo>
             <SocialIcons>
-              <SocialIconLink href='#' target='_blank' aria-label='Facebook'>
+              <SocialIconLink href='#' aria-label='Facebook'>
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href='#' target='_blank' aria-label='Instagram'>
+              <SocialIconLink href='#' aria-label='Instagram'>
                 <FaInstagram />
               </SocialIconLink>
-              <SocialIconLink href='#' target='_blank' aria-label='Youtube'>
+              <SocialIconLink href='#' aria-label='Youtube'>
                 <FaYoutube />
               </SocialIconLink>
-              <SocialIconLink href='#' target='_blank' aria-label='Twitter' rel='noopener noreferrer'>
+              <SocialIconLink href='#' aria-label='Twitter'>
                 <FaTwitter />
               </SocialIconLink>
-              <SocialIconLink href='#' target='_blank' aria-label='Linkedin'>
+              <SocialIconLink href='#' aria-label='Linkedin'>
                 <FaLinkedin />
               </SocialIconLink>
             </SocialIcons>
